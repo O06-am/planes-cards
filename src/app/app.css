@@ -1,0 +1,2 @@
+h1 { font-family: sans-serif; padding: 0 20px; color: #222; }
+.cards { display: flex; gap: 18px; flex-wrap: wrap; padding: 20px; }

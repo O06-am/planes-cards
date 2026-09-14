@@ -1,0 +1,6 @@
+<div class="card">
+  <h2>{{ plane.name }}</h2>
+  <p>מהירות: {{ plane.speed }} km/h</p>
+  <p>מדינה: {{ plane.country }}</p>
+  <button (click)="plane.speed = plane.speed + 10">+10</button>
+</div>

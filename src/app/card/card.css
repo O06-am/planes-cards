@@ -1,0 +1,17 @@
+.card {
+  border: 1px solid #d0d0d0;
+  border-radius: 14px;
+  padding: 18px;
+  width: 200px;
+  text-align: center;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+  font-family: sans-serif;
+  background: #fff;
+}
+.card img { width: 100%; border-radius: 10px; margin-bottom: 8px; }
+.card h2 { margin: 6px 0; }
+.card button {
+  margin: 4px; padding: 6px 14px; border: none; border-radius: 8px;
+  background: #0f761b; color: #fff; cursor: pointer; font-size: 14px;
+}
+.card button:hover { background: #0b544e; }
